@@ -55,5 +55,8 @@ New projects will be published soon.
 <a href="https://www.twitch.tv/ejunior_" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" height="40" width="40"/>
 </a>
+ <a href="https://gitlab.com/ejunior89" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitlab.svg" height="40" width="40" style="filter: invert(44%) sepia(93%) saturate(747%) hue-rotate(337deg) brightness(95%) contrast(101%);"/>
+</a>
 </a>
 </p>
