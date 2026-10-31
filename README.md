@@ -1,62 +1,42 @@
-<h1 align="center">Hi 👋, I'm Elio Junior</h1>
-<h3 align="center">Backend Developer focused on building solid and scalable APIs</h3>
+<div align="center">
 
----
+# Hi, I'm Elio Junior 👋
 
-## 🚀 About Me
+### Backend developer building reliable, scalable APIs
 
-- 💻 Backend Developer (Java | Spring Boot | Python | Django)
-- 📚 Studying Java.
-- 🎯 Looking forward to become a better developer.
-- ⚡ Focused on clean architecture and real-world projects
+Java · Spring Boot · Python · Django
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejunior-dev)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white)](mailto:eliomaiajunior@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-Follow-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/ejunior_)
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/ejunior89)
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,git,linux,docker" />
+## About me
+
+- 💻 Backend developer working with Java, Spring Boot, Python, and Django.
+- 📚 Currently studying Java and growing as a developer.
+- 🧱 Interested in clean architecture and practical, real-world projects.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,postgres,mysql,git,linux,docker" alt="Java, Spring, Python, Django, PostgreSQL, MySQL, Git, Linux, and Docker" />
 </p>
 
----
+## What I'm working on
 
-## 📌 Featured Projects
+I'm rebuilding my portfolio and currently developing:
 
-## 📌 Current Focus
+- 🛒 An e-commerce API with Spring Boot
+- 🏋️ A personal trainer management system
 
-🚧 Currently rebuilding my portfolio after losing previous projects.
+More projects will be shared here as they are ready.
 
-Actively working on:
+## GitHub stats
 
-- 🛒 E-commerce API (Spring Boot)
-- 🏋️ Personal Trainer Management System
-
-New projects will be published soon.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sourcejunior&show_icons=true&theme=gruvbox"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourcejunior&layout=compact&theme=gruvbox"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ejunior-dev" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  <a href="mailto:eliomaiajunior@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-<a href="https://www.twitch.tv/ejunior_" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" height="40" width="40"/>
-</a>
- <a href="https://gitlab.com/ejunior89" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitlab.svg" height="40" width="40" style="filter: invert(44%) sepia(93%) saturate(747%) hue-rotate(337deg) brightness(95%) contrast(101%);"/>
-</a>
-</a>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sourcejunior&show_icons=true&theme=gruvbox" alt="Elio's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourcejunior&layout=compact&theme=gruvbox" alt="Most used languages" />
+</div>
