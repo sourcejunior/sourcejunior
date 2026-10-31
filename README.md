@@ -39,8 +39,8 @@ More projects will be shared here as they are ready.
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sourcejunior&show_icons=true&theme=gruvbox" alt="Elio's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourcejunior&layout=compact&theme=gruvbox" alt="Most used languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourcejunior&theme=gruvbox" alt="Elio's GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourcejunior&theme=gruvbox" alt="Most used languages by repository" />
 </div>
 
 <div align="center">
@@ -50,5 +50,5 @@ More projects will be shared here as they are ready.
 ## Recent activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourcejunior&theme=gruvbox" alt="GitHub contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourcejunior&theme=gruvbox" alt="GitHub profile summary and contribution activity" />
 </div>
